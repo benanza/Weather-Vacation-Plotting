@@ -1,6 +1,6 @@
 # Weather/Vacation Plotting
 
-The Project: Visualize the weather of 500+ cities across the world of varying distance from the equator utilizing the OpenWeatherMap API.
+### The Project: Visualize the weather of 500+ cities across the world of varying distance from the equator utilizing the OpenWeatherMap API.
 
 1. Build a series of scatter plots to showcase the following relationships:
 
